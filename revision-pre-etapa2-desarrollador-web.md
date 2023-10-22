@@ -34,6 +34,8 @@ La segunda etapa se centra en la presentación visual. Aprenderán a dar estilo 
 
 La tercera etapa introduce la dinámica y la interactividad en las páginas web. Desde manipular elementos HTML hasta gestionar eventos, este módulo les proporcionará las habilidades necesarias para comprender y trabajar con React JS.
 
+![image](https://github.com/eugenia1984/utn-arg-programa-react/assets/72580574/28912739-617c-4ba6-bdbf-9770bd835b7e)
+
 ---
 
 ## Plataforma de Aprendizaje
