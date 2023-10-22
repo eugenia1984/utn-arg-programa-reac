@@ -16,6 +16,11 @@ El curso se divide en tres etapas esenciales:
 
 En esta primera etapa, exploraremos la estructura básica de las páginas web. Desde la creación de encabezados hasta la inclusión de enlaces y listas, sentarán las bases cruciales para el desarrollo web.
 
+
+![image](https://github.com/eugenia1984/utn-arg-programa-react/assets/72580574/755d2f31-931d-455b-beb3-eae8e6553faf)
+
+---
+
 ### CSS (Cascading Style Sheets):
 
 La segunda etapa se centra en la presentación visual. Aprenderán a dar estilo a las páginas, desde la modificación de colores y fuentes hasta la creación de diseños responsivos.
