@@ -25,6 +25,11 @@ En esta primera etapa, exploraremos la estructura básica de las páginas web. D
 
 La segunda etapa se centra en la presentación visual. Aprenderán a dar estilo a las páginas, desde la modificación de colores y fuentes hasta la creación de diseños responsivos.
 
+
+![image](https://github.com/eugenia1984/utn-arg-programa-react/assets/72580574/d9c61afb-a39c-42af-b0d5-ff0a2861c702)
+
+---
+
 ### JavaScript: 
 
 La tercera etapa introduce la dinámica y la interactividad en las páginas web. Desde manipular elementos HTML hasta gestionar eventos, este módulo les proporcionará las habilidades necesarias para comprender y trabajar con React JS.
